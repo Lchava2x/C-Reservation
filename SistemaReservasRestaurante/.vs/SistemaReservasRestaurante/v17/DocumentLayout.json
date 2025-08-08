@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\views\\mesas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\views\\mesas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|d:\\admin\\nueva carpeta (2)\\sistemareservasrestaurante\\sistemareservasrestaurante\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|d:\\admin\\nueva carpeta (2)\\sistemareservasrestaurante\\sistemareservasrestaurante\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\sistemareservasrestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC741D3F-C548-4671-A34B-BD1131F4D632}|SistemaReservasRestaurante\\SistemaReservasRestaurante.csproj|solutionrelative:sistemareservasrestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Startup.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Startup.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Startup.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:38:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MesasController.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\MesasController.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Controllers\\MesasController.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\MesasController.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Controllers\\MesasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:21:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Controllers\\ReservasController.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T01:10:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Models\\IdentityModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T01:04:15.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Models\\Reserva.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Models\\Reserva.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T01:03:34.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Views\\Mesas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Views\\Mesas\\Index.cshtml",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Views\\Mesas\\Index.cshtml",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Views\\Mesas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T00:11:12.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T23:52:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaReservasRestaurante\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Admin\\Nueva carpeta (2)\\SistemaReservasRestaurante\\SistemaReservasRestaurante\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaReservasRestaurante\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:52:19.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

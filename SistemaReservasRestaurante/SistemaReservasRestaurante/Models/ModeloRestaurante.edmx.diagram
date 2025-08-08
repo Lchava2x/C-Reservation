@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="96e4beb85f7c485f819f7e9bbaada91c" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_RestauranteModel.CategoriasMesa" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Clientes" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Mesas" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Parametros" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Reservas" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Turnos" Width="1.5" PointX="8" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_RestauranteModel.Usuarios" Width="1.5" PointX="5.75" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="DB_RestauranteModel.FK__Mesas__IdCategor__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_RestauranteModel.FK__Reservas__IdClie__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_RestauranteModel.FK__Reservas__IdMesa__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_RestauranteModel.FK__Turnos__IdUsuari__31EC6D26" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

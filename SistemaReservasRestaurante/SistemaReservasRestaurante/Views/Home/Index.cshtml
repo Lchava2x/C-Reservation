@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Inicio";
+    var usuario = Session["UsuarioNombre"] as string;
+    var mensajeLogin = TempData["LoginExitoso"] as string;
+}
+
+<div class="container mt-4">
+    <div class="jumbotron text-center bg-light rounded shadow-sm p-4">
+        <h1 class="display-5">¡Bienvenido a la Cocina de Antaño!</h1>
+        @if (!string.IsNullOrEmpty(usuario))
+        {
+            <p class="lead mt-3">Hola, <strong>@usuario</strong>. Esperamos que tengas un excelente día.</p>
+        }
+    </div>
+    <div class="text-center my-4">
+        <img src="~/Content/Images/restaurante.jpg" class="img-fluid rounded" alt="Restaurante">
+    </div>
+
+    <div class="text-center mb-5">
+        <h2>Bienvenidos a Nuestro Restaurante</h2>
+        <p class="lead mx-auto" style="max-width: 700px;">
+            Disfruta de una experiencia gastronómica única con platos deliciosos y un ambiente acogedor.
+            Nuestro compromiso es brindarte el mejor servicio y calidad en cada visita.
+        </p>
+    </div>
+    @if (!string.IsNullOrEmpty(mensajeLogin))
+    {
+        <div class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+            @mensajeLogin
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>
+        </div>
+    }
+
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <a href="@Url.Action("Index", "Clientes")" class="btn btn-primary btn-lg w-100 mb-3">Clientes</a>
+            </div>
+            <div class="col-md-4">
+                <a href="@Url.Action("Index", "Reservas")" class="btn btn-success btn-lg w-100 mb-3">Reservas</a>
+            </div>
+            <div class="col-md-4">
+                <a href="@Url.Action("Index", "Mesas")" class="btn btn-warning btn-lg w-100 mb-3">Mesas</a>
+            </div>
+        </div>
+    }
+

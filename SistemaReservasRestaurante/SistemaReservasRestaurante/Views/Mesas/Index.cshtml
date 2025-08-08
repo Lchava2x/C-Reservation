@@ -1,0 +1,29 @@
+﻿@model IEnumerable<SistemaReservasRestaurante.Models.Mesa>
+
+@{
+    ViewBag.Title = "Listado de Mesas";
+}
+
+<h2>Mesas</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Número</th>
+            <th>Capacidad</th>
+            <th>Disponible</th>
+            <th>Categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mesa in Model)
+        {
+            <tr>
+                <td>@mesa.Numero</td>
+                <td>@mesa.Capacidad</td>
+                <td>@(mesa.Disponible ? "Sí" : "No")</td>
+                <td>@mesa.CategoriaMesa?.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>

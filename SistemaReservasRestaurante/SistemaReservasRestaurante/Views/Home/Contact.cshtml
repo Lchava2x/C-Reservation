@@ -1,0 +1,68 @@
+﻿<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        background-color: #121212;
+        overflow-x: hidden;
+    }
+
+    .fondo-contacto {
+        display: flex;
+        width: 100%;
+        height: 100vh;
+    }
+
+    .imagen-contacto {
+        flex: 1.5;
+        background-image: url('/Content/Images/restaurante-contacto.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .contenido-contacto {
+        flex: 1;
+        background-color: rgba(0, 0, 0, 0.6);
+        color: white;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        box-sizing: border-box;
+    }
+
+   @@media (max-width: 768px) {
+        .fondo-contacto {
+            flex-direction: column;
+        }
+
+        .imagen-contacto {
+            height: 40vh;
+        }
+
+        .contenido-contacto {
+            padding: 20px;
+        }
+    }
+</style>
+
+
+<div class="fondo-contacto">
+ <div class="imagen-contacto"></div>
+ <div class="contenido-contacto">
+        <h2>Contáctenos</h2>
+        <p>Estamos para servirle. Puede contactarnos usando la información a continuación.</p>
+        <p>
+            Restaurante Delicioso<br />
+            Avenida Central, San José, Costa Rica<br />
+            <strong>Tel:</strong> +506 2222-3333<br />
+            <strong>Email:</strong>
+            <a href="mailto:reservas@restaurantecr.com" style="color: #ffc107;">
+                reservas@restaurantecr.com
+            </a>
+        </p>
+    </div>
+</div>
+
